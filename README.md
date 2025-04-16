@@ -1,5 +1,14 @@
 # Marc Schwarzschild
 
+## Skills
+
+- Engineering
+- Project Management
+- Sailing
+- Flying
+- Woodworking
+- Cooking
+
 ## Links
 
 [LinkedIn](https://www.linkedin.com/in/mschwarzschild/)
